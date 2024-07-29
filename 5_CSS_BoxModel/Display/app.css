@@ -8,7 +8,7 @@ span {
 h1 {
     background-color: paleturquoise;
     border: 1px solid black;
-    display: none;
+    /* display: none; */
 }
 
 div {
